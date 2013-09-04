@@ -8,7 +8,7 @@ Currently only supports the mustache templating system (using pystache)
 Installation
 ---
 
-pip install SimpleRender
+`pip install SimpleRender`
 
 Usage
 ---
