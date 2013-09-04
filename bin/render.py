@@ -1,5 +1,5 @@
 import argparse
-#from SimpleRender import template
+from SimpleRender import template
 
 def main():
     #start parse command line arguments
