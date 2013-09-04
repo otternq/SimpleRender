@@ -1,9 +1,5 @@
 SimpleRender
-<<<<<<< HEAD
 =========
-=======
-#######
->>>>>>> master
 
 A generic commandline templating system.
 
