@@ -1,5 +1,9 @@
 SimpleRender
+<<<<<<< HEAD
 =========
+=======
+#######
+>>>>>>> master
 
 A generic commandline templating system.
 
@@ -7,7 +11,6 @@ Currently only supports the mustache templating system (using pystache)
 
 Installation
 ---
-
 `pip install SimpleRender`
 
 Usage
